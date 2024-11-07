@@ -85,7 +85,7 @@ export default function Component() {
           </CardHeader>
           <CardContent>
             <h3 className="text-xl font-semibold">Bachelor of Technology (B.Tech) in Robotic Engineering (In Progress)</h3>
-            <p className="text-muted-foreground">University in Germany</p>
+            <p className="text-muted-foreground">International University of Applied Sciences in Germany</p>
             <p className="text-muted-foreground">Expected Graduation: 2027</p>
           </CardContent>
         </Card>
